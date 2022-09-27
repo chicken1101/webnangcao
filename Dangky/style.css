@@ -1,0 +1,11 @@
+.form {
+    width: 400px;
+    border: 1px solid blue;
+    padding: 30px;
+    margin: 0 auto;
+    font-weight: 800px;
+   }
+   .form input {
+    width: 100%;
+    padding: 10px 0;
+   }
